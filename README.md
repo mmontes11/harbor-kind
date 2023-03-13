@@ -1,2 +1,2 @@
-# harbor-kind
-⚓ Deploy Harbor locally using KIND
+# ⚓ harbor-kind
+Deploy Harbor locally using KIND
